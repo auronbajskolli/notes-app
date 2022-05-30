@@ -115,6 +115,5 @@ yargs.command({
   },
 });
 
-// console.log(yargs.argv);
 yargs.parse();
 //shutdown nodemon nwindows osht ctrl+c
